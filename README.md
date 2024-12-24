@@ -27,12 +27,13 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
    - Extração dos dados.
    - Transformação dos dados para garantir consistência e normalização.
    - Carregar os dados no banco de dados.
+![Airflow](images/airflow.png)
 
 2. **Análise de Dados com Power BI**:
    - Conexão com o banco PostgreSQL para obter os dados transformados.
    - Criação de dashboards com métricas de review score e tempos de entrega.
    - Identificação de padrões regionais e temporais.
-
+![Relações](images/relacoes.png)
 ---
 
 ## Resultados da Análise
@@ -41,9 +42,12 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 2. Foi observado que o atraso médio nas entregas aumentou substancialmente neste período, impactando negativamente a avaliação dos clientes.
 3. Regiões **Norte** e **Nordeste** apresentaram os piores índices de atrasos e, consequentemente, as piores avaliações.
 
+![Gráfico de análise](images/2017_2018_entregas_regiao.png)
+![Gráfico de análise](images/2017_geral.png)
+![Gráfico de análise](images/2018_geral.png)
 ---
 
-## Solução Proposta
+## Análise Prescritiva
 
 Após identificar que o aumento nos atrasos de entrega resultou em piores avaliações, a sugestão é:
 
