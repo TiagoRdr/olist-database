@@ -45,7 +45,7 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 
 ## Solução Proposta
 
-Após identificar que o aumento nos atrasos de entrega resultou em piores avaliações, sugere-se:
+Após identificar que o aumento nos atrasos de entrega resultou em piores avaliações, a sugestão é:
 
 1. **Revisão Logística**:
    - Melhorar a eficiência na cadeia de entregas para as regiões afetadas.
