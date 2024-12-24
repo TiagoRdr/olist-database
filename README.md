@@ -43,8 +43,7 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 3. Regiões **Norte** e **Nordeste** apresentaram os piores índices de atrasos e, consequentemente, as piores avaliações.
 
 ![Gráfico de análise](images/2017_2018_entregas_regiao.png)
-![Gráfico de análise](images/2017_geral.png)
-![Gráfico de análise](images/2018_geral.png)
+![Gráfico de análise](images/2017_geral.png) ![Gráfico de análise](images/2018_geral.png)
 ---
 
 ## Análise Prescritiva
