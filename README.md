@@ -34,6 +34,7 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
    - Criação de dashboards com métricas de review score e tempos de entrega.
    - Identificação de padrões regionais e temporais.
 ![Relações](images/relacoes.png)
+
 ---
 
 ## Resultados da Análise
@@ -42,25 +43,50 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 2. Foi observado que o atraso médio nas entregas aumentou substancialmente neste período, impactando negativamente a avaliação dos clientes.
 3. Regiões **Norte** e **Nordeste** apresentaram os piores índices de atrasos e, consequentemente, as piores avaliações.
 
+### Análise 1: Comparativo da proporção de entregas no período de 2017 e 2018. Em 2018, houve um grande aumento de entregas sendo realizadas fora do prazo nas regiões Norte e Nordeste.
+
 ![Gráfico de análise](images/2017_2018_entregas_regiao.png)
+
+---
+
+### Análise 2: Visão geral mostrando a média de avaliações por estado do Brasil realizando uma comparação entre os anos de 2017 e 2018, sendo categorizado em: Avaliações Ruins (Vermelho), Avaliações Regulares (Amarelo) e Avaliações Boas (Verde). Também é possivel verificar que houve uma diminuição na média nacional de avaliações e que Norte e Nordeste foram as mais afetadas.
+
+---
+
 ![Gráfico de análise](images/2017_geral.png) ![Gráfico de análise](images/2018_geral.png)
+
+---
+
+## Análise Descritiva
+
+1. **Distribuição das Avaliações**:
+   - A média geral das avaliações dos clientes variou entre **2017** e **2018**, com destaque para uma queda significativa no **review scores** de **avaliações boas** nas regiões Norte e Nordeste.
+   
+2. **Padrões de Entregas**:
+   - A análise das entregas no período de 2017 e 2018 mostrou um aumento considerável nas entregas **fora do prazo**, especialmente nas regiões Norte e Nordeste.
+
+---
+
+## Análise Diagnóstica
+
+1. **Índices de Atraso e Satisfação**:
+   - Observou-se uma correlação direta entre **atrasos de entrega** e **avaliações ruins**. Quanto maiores os atrasos, menores as avaliações dos clientes.
+
+2. **Fatores Regionais**:
+   - As regiões com **maiores índices de atrasos** também apresentaram os **piores índices de satisfação**. A falta de otimização nas rotas de entrega contribuiu significativamente para esse padrão.
+
 ---
 
 ## Análise Prescritiva
 
-Após identificar que o aumento nos atrasos de entrega resultou em piores avaliações, a sugestão é:
+1. **Revisão e Melhoria Logística**:
+   - **Ações imediatas** devem incluir a revisão dos processos logísticos nas regiões afetadas. **Parcerias com transportadoras locais** poderiam otimizar os tempos de entrega.
+   
+2. **Implementação de Monitoramento de KPIs**:
+   - Criar um painel de monitoramento em tempo real dos **KPIs logísticos**, como tempo médio de entrega por região, para detectar e corrigir problemas antes que impactem os clientes.
 
-1. **Revisão Logística**:
-   - Melhorar a eficiência na cadeia de entregas para as regiões afetadas.
-   - Parcerias com transportadoras regionais para reduzir os prazos de entrega.
-
-2. **Monitoramento de KPI's**:
-   - Implementar métricas de desempenho logístico como tempo médio de entrega por região.
-   - Criar um painel de acompanhamento em tempo real com o Airflow para monitorar possíveis atrasos.
-
-3. **Comunicação com o Cliente**:
-   - Notificar clientes sobre atrasos previamente.
-   - Oferecer incentivos (ex.: cupons de desconto) em casos de atraso.
+3. **Estratégias de Comunicação com o Cliente**:
+   - Estabelecer uma comunicação proativa com os clientes, informando sobre possíveis atrasos e oferecendo **incentivos** como cupons de desconto para mitigar os impactos negativos.
 
 ---
 
