@@ -43,13 +43,15 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 2. Foi observado que o atraso médio nas entregas aumentou substancialmente neste período, impactando negativamente a avaliação dos clientes.
 3. Regiões **Norte** e **Nordeste** apresentaram os piores índices de atrasos e, consequentemente, as piores avaliações.
 
-### Análise 1: Comparativo da proporção de entregas no período de 2017 e 2018. Em 2018, houve um grande aumento de entregas sendo realizadas fora do prazo nas regiões Norte e Nordeste.
+### Análise 1 
+Comparativo da proporção de entregas no período de 2017 e 2018. Em 2018, houve um grande aumento de entregas sendo realizadas fora do prazo nas regiões Norte e Nordeste.
 
 ![Gráfico de análise](https://github.com/TiagoRdr/olist-database/blob/main/images/2017_2018_entregas_regiao.png)
 
 ---
 
-### Análise 2: Visão geral mostrando a média de avaliações por estado do Brasil realizando uma comparação entre os anos de 2017 e 2018, sendo categorizado em: Avaliações Ruins (Vermelho), Avaliações Regulares (Amarelo) e Avaliações Boas (Verde). Também é possivel verificar que houve uma diminuição na média nacional de avaliações e que Norte e Nordeste foram as mais afetadas.
+### Análise 2
+Visão geral mostrando a média de avaliações por estado do Brasil realizando uma comparação entre os anos de 2017 e 2018, sendo categorizado em: Avaliações Ruins (Vermelho), Avaliações Regulares (Amarelo) e Avaliações Boas (Verde). Também é possivel verificar que houve uma diminuição na média nacional de avaliações e que Norte e Nordeste foram as mais afetadas.
 
 ---
 
