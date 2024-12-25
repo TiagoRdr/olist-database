@@ -45,7 +45,7 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 
 ### Análise 1: Comparativo da proporção de entregas no período de 2017 e 2018. Em 2018, houve um grande aumento de entregas sendo realizadas fora do prazo nas regiões Norte e Nordeste.
 
-![Gráfico de análise](images/2017_2018_entregas_regiao.png)
+![Gráfico de análise]([images/2017_2018_entregas_regiao.png](https://github.com/TiagoRdr/olist-database/blob/main/images/2017_2018_entregas_regiao.png])
 
 ---
 
@@ -73,20 +73,20 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
    - Observou-se uma correlação direta entre **atrasos de entrega** e **avaliações ruins**. Quanto maiores os atrasos, menores as avaliações dos clientes.
 
 2. **Fatores Regionais**:
-   - As regiões com **maiores índices de atrasos** também apresentaram os **piores índices de satisfação**. A falta de otimização nas rotas de entrega contribuiu significativamente para esse padrão.
+   - As regiões com **maiores índices de atrasos** também apresentaram os **piores índices de satisfação**. A falta de otimização nas rotas de entrega pode ter contribuído significativamente para esse padrão.
 
 ---
 
 ## Análise Prescritiva
 
 1. **Revisão e Melhoria Logística**:
-   - **Ações imediatas** devem incluir a revisão dos processos logísticos nas regiões afetadas. **Parcerias com transportadoras locais** poderiam otimizar os tempos de entrega.
+   - Podemos sugerir a incluisão da revisão dos processos logísticos nas regiões afetadas. Parcerias com transportadoras locais poderiam otimizar os tempos de entrega.
    
 2. **Implementação de Monitoramento de KPIs**:
-   - Criar um painel de monitoramento em tempo real dos **KPIs logísticos**, como tempo médio de entrega por região, para detectar e corrigir problemas antes que impactem os clientes.
+   - Criação de um painel de monitoramento em tempo real dos KPIs logísticos, como tempo médio de entrega por região, para detectar e corrigir problemas antes que impactem os clientes.
 
 3. **Estratégias de Comunicação com o Cliente**:
-   - Estabelecer uma comunicação proativa com os clientes, informando sobre possíveis atrasos e oferecendo **incentivos** como cupons de desconto para mitigar os impactos negativos.
+   - Estabelecer uma comunicação proativa com os clientes, informando sobre possíveis atrasos e oferecendo incentivos, como cupons de desconto, para diminuir os impactos negativos.
 
 ---
 
