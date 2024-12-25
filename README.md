@@ -45,7 +45,7 @@ O principal objetivo deste projeto foi identificar fatores que impactam a experi
 
 ### Análise 1: Comparativo da proporção de entregas no período de 2017 e 2018. Em 2018, houve um grande aumento de entregas sendo realizadas fora do prazo nas regiões Norte e Nordeste.
 
-![Gráfico de análise]([images/2017_2018_entregas_regiao.png](https://github.com/TiagoRdr/olist-database/blob/main/images/2017_2018_entregas_regiao.png])
+![Gráfico de análise](https://github.com/TiagoRdr/olist-database/blob/main/images/2017_2018_entregas_regiao.png)
 
 ---
 
